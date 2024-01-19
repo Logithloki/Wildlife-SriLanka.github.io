@@ -148,14 +148,14 @@ h1{
 }
 
 .slide-1{
-  background: url('E:/WEB DEVELOPMENT/Sun/Responsive Navbar/image_3.jpg') no-repeat;
+  background: url('image_3.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 
 .slide-2{
-  background: url('E:/WEB DEVELOPMENT/Sun/Responsive Navbar/pexels-marek-piwnicki-7764337.jpg') no-repeat;
+  background: url('pexels-marek-piwnicki-7764337.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
